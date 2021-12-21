@@ -1,0 +1,11 @@
+---
+layout: page
+subtitle: page.date
+---
+
+<p>
+    <strong>
+        Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}
+    </strong>
+</p>
+{{ content }}

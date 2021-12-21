@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<section class="section">
+    <div class="container">
+        {{ content }}
+        <div class="content">
+            {% for post in paginator.posts %}
+                {% include post-card.html %}
+            {% endfor %}
+        </div>
+        {% include pagination.html %}
+        {% include subscribe.html %}
+    </div>
+</section>

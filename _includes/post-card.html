@@ -1,0 +1,25 @@
+<div class="card is-square mb-4">
+    {% if post.image %}
+    <div class="card-image">
+        <img src="{{ post.image }}" alt="{{ post.title }}">
+    </div>
+    {% endif %}
+    <div class="card-content">
+        <div class="content">
+            <p class="title">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="is-primary">{{ post.title}}</a>
+            </p>
+            <p class="subtitle">
+                {{ post.date | date: "%b %-d, %Y" }}
+            </p>
+            {% if post.summary %}
+                {{ post.summary | markdownify }}
+            {% else %}
+                <p>{{ post.excerpt }}</p>
+            {% endif %}
+        </div>
+    </div>
+    <footer class="card-footer">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="card-footer-item">Read more</a>
+    </footer>
+</div>
