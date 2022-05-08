@@ -2,12 +2,22 @@
 layout: default
 ---
 
+<section class="hero is-small is-bold is-primary">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title is-2 has-text-weight-light">Latest Posts</h1>
+        </div>
+    </div>
+</section>
+
 <section class="section">
     <div class="container">
         {{ content }}
-        <div class="content">
+        <div class="columns is-multiline">
             {% for post in paginator.posts %}
-                {% include post-card.html %}
+                <div class="column is-half-tablet is-one-third-desktop is-one-quarter-widescreen">
+                    {% include post.html %}
+                </div>
             {% endfor %}
         </div>
         {% include pagination.html %}

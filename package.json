@@ -2,6 +2,7 @@
   "name": "graft",
   "version": "1.0.0",
   "dependencies": {
-    "bulma": "^0.9.3"
+    "bulma": "^0.9.3",
+    "bulma-pricingtable": "^0.2.0"
   }
 }

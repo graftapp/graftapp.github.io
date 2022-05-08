@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Terms of Service
+subtitle: "Last Updated: March 15, 2022"
 ---
-
-# GRAFT TERMS OF SERVICE
-
-Last Updated: December 1, 2021
 
 These terms of service ("Terms") apply to your access and use of **Graft** (the
 "Service"). Please read them carefully.
