@@ -6,9 +6,6 @@
   <body>
     {% include header.html %}
     <main>
-        {% unless page.hide_hero %}
-            {% include hero.html %}
-        {% endunless %}
         {{ content }}
     </main>
     {% include footer.html %}

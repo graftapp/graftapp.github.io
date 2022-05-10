@@ -1,9 +1,36 @@
-<nav class="navbar is-primary is-transparent {% if site.fixed_navbar %} is-fixed-{{ site.fixed_navbar }} {% endif %}">
+<nav class="navbar is-primary is-transparent">
     <div class="container">
         <div class="navbar-brand">
-            <a href="{{ site.baseurl }}/" class="navbar-item is-size-4 has-text-weight-light">
-                graft
+            <a href="{{ site.baseurl }}/" class="navbar-item">
+              <img src="{{site_url}}/assets/images/logo.png" width="96" height="28" alt="Graft">
+
+                <!-- <strong>graft</strong> -->
             </a>
+            <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu">
+            <div class="navbar-end">
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <span class="navbar-link">Resources</span>
+                    <div class="navbar-dropdown">
+                        <a href="https://www.graftapp.co/p/y1qH1NYa/graph" class="navbar-item" target="_blank">
+                            Projects, Notes and Links
+                        </a>
+                        <a href="https://www.graftapp.co/p/V4kGIMpc/graph" class="navbar-item" target="_blank">
+                            Users and Accounts
+                        </a>
+                    </div>
+                </div>
+                <div class="navbar-item">
+                    <a href="https://www.graftapp.co" class="button is-primary is-inverted">
+                        Go to Graft
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </nav>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+subtitle: "Last Updated: March 15, 2022"
 ---
 
 **Graft** ("We", "us", and "our") takes your privacy seriously. To better protect your

@@ -4,17 +4,13 @@ title: graft
 tagline: cultivate new knowledge
 email: keith@graftapp.co
 description: >
-  graft is a frictionless knowledge base where thinkers work together to cultivate new knowledge.
+  Graft is a personal knowledge graph that acts like an extension of your working memory. Explore the meaningful connections between your knowledge and unlock new insights.
 url: "https://www.graftapp.co"
 
 timezone: Etc/UTC
 
-paginate: 5
-paginate_path: "/blog/page:num"
-
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
@@ -35,20 +31,3 @@ livereload: true
 sass:
   style: compressed
   source_dir: _sass
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      show_sidebar: false
-      hero_height: is-small
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      author: "keith"
-      layout: post
-      show_sidebar: true
-      hide_share_buttons: true
-      hero_height: is-small
