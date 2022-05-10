@@ -80,7 +80,7 @@ hide_hero: true
                     <div class="content">
                         <p>
                             Notes are individual pieces of information in your 
-                            knwoeldge graph.
+                            knowledge graph.
                         </p>
                     </div>
                 </div>
