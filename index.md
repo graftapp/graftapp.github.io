@@ -43,11 +43,11 @@ hide_hero: true
                 <strong class="has-text-weight-bold">what</strong> is Graft?
             </p>
             <p class="is-size-4">
-                Graft is a personal knowledge network that aims to highlight the
-                connections between information. Graft allows you to take notes
-                then arbitrarily link them. You can add detailed information about
-                the link between notes, providing additional context. In essence,
-                Graft acts like an extension of your working memory.
+                Graft is a personal knowledge graph that aims to highlight the
+                connections between information. Graft allows you to take notes on
+                a topic then link related notes to form a network of information.
+                You can add details about the link between notes, providing additional
+                context. In essence, Graft acts like an extension of your working memory.
             </p>
         </div>
     </div>
