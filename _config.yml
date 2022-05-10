@@ -4,17 +4,13 @@ title: graft
 tagline: cultivate new knowledge
 email: keith@graftapp.co
 description: >
-  Graft is a knowledge base that acts like an extension of your working memory. Explore the meaningful connections between pieces of information to cultivate new knowledge.
+  Graft is a personal knowledge graph that acts like an extension of your working memory. Explore the meaningful connections between your knowledge and unlock new insights.
 url: "https://www.graftapp.co"
 
 timezone: Etc/UTC
 
-paginate: 8
-paginate_path: "/blog/page:num"
-
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
