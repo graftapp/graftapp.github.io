@@ -19,7 +19,7 @@ hide_hero: true
                             meaningful connections between your knowledge and
                             unlock new insights.
                         </p>
-                        <a href="https://www.graftapp.co" class="button is-link is-inverted is-large">
+                        <a href="https://www.graftapp.co" class="button is-link is-inverted is-large" target="_blank">
                             Get started with Graft!
                         </a>
                     </div>
@@ -62,12 +62,25 @@ hide_hero: true
             <div class="columns is-multiline is-centered">
                 <div class="column is-4 has-text-centered p-4 mb-4">
                     <div class="icon callout-icon">
+                        <i class="fas fa-object-group fa-4x"></i>
+                    </div>
+                    <p class="title is-5 has-text-primary">create a project</p>
+                    <div class="content">
+                        <p>
+                            A project is a collection of information centered on
+                            a specific topic.
+                        </p>
+                    </div>
+                </div>
+                <div class="column is-4 has-text-centered p-4 mb-4">
+                    <div class="icon callout-icon">
                         <i class="fas fa-pen-fancy fa-4x"></i>
                     </div>
                     <p class="title is-5 has-text-primary">take some notes</p>
                     <div class="content">
                         <p>
-                            Notes on notes on notes
+                            Notes are individual pieces of information in your 
+                            knwoeldge graph.
                         </p>
                     </div>
                 </div>
@@ -78,7 +91,8 @@ hide_hero: true
                     <p class="title is-5 has-text-primary">connect related ideas</p>
                     <div class="content">
                         <p>
-                            Any two notes within a project can be linked to highlight related ideas.
+                            Any two notes within a project can be linked to
+                            highlight related ideas.
                         </p>
                     </div>
                 </div>
@@ -89,19 +103,8 @@ hide_hero: true
                     <p class="title is-5 has-text-primary">describe their relationships</p>
                     <div class="content">
                         <p>
-                            Any two notes within a project can be linked to highlight related ideas.
-                        </p>
-                    </div>
-                </div>
-                <div class="column is-4 has-text-centered p-4 mb-4">
-                    <div class="icon callout-icon">
-                         <i class="fas fa-project-diagram fa-4x"></i>
-                    </div>
-                    <p class="title is-5 has-text-primary">visualize your knowledge</p>
-                    <div class="content">
-                        <p>
-                            Graft analyzes the relationships between notes to
-                            measure how important they are to the network.
+                            Aan add detailed information about the link between
+                            notes, providing additional context.
                         </p>
                     </div>
                 </div>
@@ -112,8 +115,8 @@ hide_hero: true
                     <p class="title is-5 has-text-primary">unlock new insights</p>
                     <div class="content">
                         <p>
-                            Graft analyzes the relationships between notes to
-                            measure how important they are to the network.
+                            Graft's intuitive user interfaces allows you to easily
+                            see relationships across your entire knowledge graph.
                         </p>
                     </div>
                 </div>
@@ -129,7 +132,9 @@ hide_hero: true
                 Get Started with Graft Today
             </p>
             <p class="subtitle">Sign up now for free.</p>
-            <a href="https://www.graftapp.co" class="button is-primary is-medium">Go to Graft</a>
+            <a href="https://www.graftapp.co" class="button is-primary is-medium" target="_blank">
+                Go to Graft
+            </a>
         </div>
     </div>
 </section>
