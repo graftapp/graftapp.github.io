@@ -189,8 +189,7 @@ hide_hero: true
                     </p>
                     <div class="content">
                         <p>
-                            Yes, just sign up with the Basic plan and you can try out
-                            Graft for free for an unlimited amount of time.
+                            Yes, Graft's sStandard plan is free to use.
                         </p>
                     </div>
                 </div>
@@ -200,7 +199,7 @@ hide_hero: true
                     </p>
                     <div class="content">
                         <p>
-                            You can sign up for Graft and use Standard plan
+                            You can sign up for Graft and use the Standard plan
                             without a credit card.
                         </p>
                     </div>
