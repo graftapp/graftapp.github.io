@@ -48,7 +48,7 @@ hide_hero: true
                 Graft. Graft acts like an extension of your working memory, capable of
                 holding all of your context for as long as you need it. Graft allows you
                 to explore the meaningful relationships between your knowledge and discover
-                new connections. Grow new knowledge with Graft.
+                new connections. Grow your knowledge with Graft.
             </p>
         </div>
     </div>

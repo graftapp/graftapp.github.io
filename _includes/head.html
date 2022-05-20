@@ -3,9 +3,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content={{ site.theme_color | default: '#ffffff' }}>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/app.css">
-    <link rel="shortcut icon" type="image/png"
-          {% if site.favicon %} href="{{ site.favicon | relative_url }}" {% else %} href="{{ site.baseurl }}/favicon.png" {% endif %}
-    />
+    <link rel="icon" href="{{ site.baseurl }}/assets//favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/favicon-16x16.png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
     {% seo %}
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-NGBHRGR6RM"></script>
