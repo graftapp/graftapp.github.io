@@ -189,7 +189,7 @@ hide_hero: true
                     </p>
                     <div class="content">
                         <p>
-                            Yes, Graft's sStandard plan is free to use.
+                            Yes, Graft's Standard plan is free to use.
                         </p>
                     </div>
                 </div>
