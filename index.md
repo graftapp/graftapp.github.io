@@ -36,7 +36,7 @@ hide_hero: true
     </div>
 </section>
 
-<section class="hero is-medium is-white">
+<section class="hero is-white">
     <div class="hero-body">
         <div class="container">
             <p class="title has-text-primary has-text-centered has-text-weight-normal">
@@ -54,7 +54,7 @@ hide_hero: true
     </div>
 </section>
 
-<section class="hero is-medium has-text-primary">
+<section class="hero has-text-primary">
     <div class="hero-body">
         <div class="container">
             <p class="title has-text-primary has-text-centered has-text-weight-normal">
@@ -129,16 +129,118 @@ hide_hero: true
     </div>
 </section>
 
-<section class="hero is-small is-white">
+<section class="hero is-white">
     <div class="hero-body">
-        <div class="container has-text-centered">
-            <p class="title is-spaced has-text-primary has-text-centered">
+        <div class="container">
+            <p class="title is-spaced has-text-primary has-text-centered has-text-weight-normal">
+                <strong class="has-text-weight-bold">pricing</strong> plans
+            </p>
+            <p class="subtitle has-text-centered">
                 Get Started with Graft Today
             </p>
-            <p class="subtitle">Sign up now for free.</p>
-            <a href="https://www.graftapp.co" class="button is-primary is-medium" target="_blank">
-                Go to Graft
-            </a>
+            <div>
+                <div class="pricing-table">
+                    <div class="pricing-plan">
+                        <div class="plan-header">Standard</div>
+                        <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>0</span>/month</div>
+                        <div class="plan-items">
+                            <div class="plan-item">Up to 5 projects</div>
+                            <div class="plan-item">Up to 4 project members</div>
+                            <div class="plan-item">Up to 200 notes per project</div>
+                            <div class="plan-item">Available on any device</div>
+                        </div>
+                        <div class="plan-footer">
+                            <a href="https://www.graftapp.co" class="button" target="_blank">
+                                Get Started for Free
+                            </a>
+                        </div>
+                    </div>
+                    <div class="pricing-plan is-primary">
+                        <div class="plan-header">Premium</div>
+                        <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>5</span>/month</div>
+                        <div class="plan-items">
+                            <div class="plan-item">Everything in standard</div>
+                            <div class="plan-item">Unlimited projects</div>
+                            <div class="plan-item">Unlimited project members</div>
+                            <div class="plan-item">-</div>
+                        </div>
+                        <div class="plan-footer">
+                            <a href="https://www.graftapp.co" class="button" target="_blank">
+                                Get Started for Free
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="hero">
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <p class="title is-spaced has-text-primary has-text-centered has-text-weight-normal">
+                <strong class="has-text-weight-bold">frequently</strong> asked questions
+            </p>
+            <div class="columns is-multiline is-centered">
+                <div class="column is-6 has-text-centered p-4 mb-4">
+                    <p class="title is-5 has-text-primary">
+                        Can I try Graft for free?
+                    </p>
+                    <div class="content">
+                        <p>
+                            Yes, just sign up with the Basic plan and you can try out
+                            Graft for free for an unlimited amount of time.
+                        </p>
+                    </div>
+                </div>
+                <div class="column is-6 has-text-centered p-4 mb-4">
+                    <p class="title is-5 has-text-primary">
+                        Do I need a credit card to sign up?
+                    </p>
+                    <div class="content">
+                        <p>
+                            You can sign up for Graft and use Standard plan
+                            without a credit card.
+                        </p>
+                    </div>
+                </div>
+                <div class="column is-6 has-text-centered p-4 mb-4">
+                    <p class="title is-5 has-text-primary">
+                        How do I subscribe?
+                    </p>
+                    <div class="content">
+                        <p>
+                            Sign up for an account and log in. Click on your email
+                            in the header, then "Switch to Premium Account".
+                            From there, read the disclaimer and click "Upgrade".
+                        </p>
+                    </div>
+                </div>
+                <div class="column is-6 has-text-centered p-4 mb-4">
+                    <p class="title is-5 has-text-primary">
+                        Can I cancel at any time?
+                    </p>
+                    <div class="content">
+                        <p>
+                            Yes, you can cancel your subscription at any time.
+                            Project and project member limits will be applied
+                            on all future updates. You won't lose access to
+                            anything you created during the subscription.
+                        </p>
+                    </div>
+                </div>
+                <div class="column is-6 has-text-centered p-4 mb-4">
+                    <p class="title is-5 has-text-primary">
+                        What if I still have questions?
+                    </p>
+                    <div class="content">
+                        <p>
+                            Feel free to <a href="mailto:keith@graftapp.co">email us</a> and we'll get back to you as soon as possible.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

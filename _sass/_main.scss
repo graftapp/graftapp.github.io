@@ -6,7 +6,10 @@ $family-sans-serif: 'Roboto', sans-serif;
 $primary: #34495E;
 $link: #34495E;
 
+$pricing-plan-border: .1rem solid $primary;
+
 @import "../node_modules/bulma/bulma.sass";
+@import "../node_modules/bulma-pricingtable/dist/css/bulma-pricingtable.sass";
 
 html {
     background-color: #F5F5F5;
