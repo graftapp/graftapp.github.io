@@ -43,11 +43,12 @@ hide_hero: true
                 <strong class="has-text-weight-bold">what</strong> is Graft?
             </p>
             <p class="is-size-4">
-                Graft is a personal knowledge graph that aims to highlight the
-                connections between information. Graft allows you to take notes on
-                a topic then link related notes to form a network of information.
-                You can add details about the link between notes, providing additional
-                context. In essence, Graft acts like an extension of your working memory.
+                If there is one glaring weakness of our brains, it’s our working memory.
+                We can store a limited amount of context for a short period of time. Enter
+                Graft. Graft acts like an extension of your working memory, capable of
+                holding all of your context for as long as you need it. Graft allows you
+                to explore the meaningful relationships between your knowledge and discover
+                new connections. Grow new knowledge with Graft.
             </p>
         </div>
     </div>
