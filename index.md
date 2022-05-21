@@ -162,7 +162,7 @@ hide_hero: true
                             <div class="plan-item">Everything in standard</div>
                             <div class="plan-item">Unlimited projects</div>
                             <div class="plan-item">Unlimited project members</div>
-                            <div class="plan-item">-</div>
+                            <div class="plan-item">Private projects</div>
                         </div>
                         <div class="plan-footer">
                             <a href="https://www.graftapp.co" class="button" target="_blank">
