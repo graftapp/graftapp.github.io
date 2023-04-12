@@ -19,7 +19,7 @@ hide_hero: true
                             meaningful connections between your knowledge and
                             unlock new insights.
                         </p>
-                        <a href="https://www.graftapp.co" class="button is-link is-inverted is-large" target="_blank">
+                        <a href="https://cdn.forms-content.sg-form.com/bbf5d13b-48ae-11ec-a1a3-9209a0830323" class="button is-link is-inverted is-large" target="_blank">
                             Get started with Graft!
                         </a>
                     </div>
