@@ -112,18 +112,6 @@ hide_hero: true
                         </p>
                     </div>
                 </div>
-                <div class="column is-4 has-text-centered p-4 mb-4">
-                    <div class="icon callout-icon">
-                        <i class="fas fa-users fa-4x"></i>
-                    </div>
-                    <p class="title is-5 has-text-primary">collaborate with friends</p>
-                    <div class="content">
-                        <p>
-                            Graft's collaborative tools allow teams to combine
-                            their information and build a rich knowledge graph.
-                        </p>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
